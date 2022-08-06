@@ -1,0 +1,15 @@
+{
+	"metadata": {
+		"version": 4.5,
+		"type": "BufferGeometry",
+		"generator": "BufferGeometry.toJSON"
+	},
+	"uuid": "D61532B4-24C3-4BC4-B56B-7245E8163E09",
+	"type": "BoxGeometry",
+	"width": 0.2,
+	"height": 0.2,
+	"depth": 1,
+	"widthSegments": 1,
+	"heightSegments": 1,
+	"depthSegments": 1
+}
